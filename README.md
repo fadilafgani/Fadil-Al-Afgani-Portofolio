@@ -11,3 +11,6 @@ Pencarian kecenderungan pembeli menggunakan algoritma Apriori dengan studi kasus
 
 ## 4. [Aplikasi Pembelian Motor Dealer Menggunakan Pemograman Java](https://github.com/fadilafgani/Aplikasi-Pembelian-Motor-Dealer-Menggunakan-Pemograman-Java)
 Aplikasi pada dealer motor menggunakan pemograman Java. Pada aplikasi ini, terdapat fitur pembelian langsung (cash) dan kredit.
+
+## 5. [Prediksi IHSG Menggunakan Neural Network](https://github.com/fadilafgani/Prediksi-IHSG-Menggunakan-Neural-Network)
+Prediksi IHSG Menggunakan Algoritma Neural Network. Data yang digunakan adalah data IHSG Indonesia/JKSE dan berasal dari websit yahoo finance dengan range data 15 tahun terakhir.
