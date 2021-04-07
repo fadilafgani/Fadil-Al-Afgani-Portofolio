@@ -14,3 +14,6 @@ Aplikasi pada dealer motor menggunakan pemograman Java. Pada aplikasi ini, terda
 
 ## 5. [Prediksi IHSG Menggunakan Neural Network](https://github.com/fadilafgani/Prediksi-IHSG-Menggunakan-Neural-Network)
 Prediksi IHSG Menggunakan Algoritma Neural Network. Data yang digunakan adalah data IHSG Indonesia/JKSE dan berasal dari websit yahoo finance dengan range data 15 tahun terakhir.
+
+## 6. [Clustering Pada Data Sales Bedak Bayi Menggunakan Kmeans dan Elbow](https://github.com/fadilafgani/Clustering-Pada-Data-Sales-Bedak-Bayi-Menggunakan-Kmeans-dan-Elbow)
+Clustering Pada Data Sales Bedak Bayi Menggunakan Algoritma K-Means dan Metode Elbow.
