@@ -26,3 +26,6 @@ Klasifikasi Hasil Pemilu (Terpilih atau Tidak) Menggunakan Decision Tree Classif
 
 ## 9. [Visualisasi Data Covid-19 di Indonesia menggunakan Tableau](https://github.com/fadilafgani/Visualisasi-Data-Covid-19-di-Indonesia-menggunakan-Tableau)
 Tableau Software adalah perusahaan perangkat lunak visualisasi data interaktif Amerika yang berfokus pada intelijen bisnis. Pada project ini melakukan visualiasi terhadap data Covid-19 diseluruh provinsi di Indonesia.
+
+## 10.[Visualisasi Data Covid 19 di Indonesia menggunakan Power BI](https://github.com/fadilafgani/Visualisasi-Data-Covid-19-di-Indonesia-menggunakan-Power-BI)
+Microsoft Power BI adalah software intelligence bisnis bentukan Microsoft yang berguna mengolah data lebih detail dan menampilkan dengan apik dan interaktif. Dengan aplikasi ini anda dapat memvisualisasikan data yang telah anda masukkan atau data yang sudah terkoneksi oleh sistem ketiga. Project ini menggunakan data Covid-19 di Indonesia, yang divisualisasikan dalam bentuk berbagai grafik.
