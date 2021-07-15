@@ -2,11 +2,13 @@
 
 ## 1. [Aplikasi Website PPDB Online](https://github.com/fadilafgani/Sistem-Website-PPDB-Online)
 ![](/images/ppdb.JPG)
+
 Aplikasi PPDB Online adalah aplikasi pendataan calon peserta didik baru berbasis web. Aplikasi tersebut berbentuk website dengan framework yang digunakan adalah CodeIgniter
 
 
 ## 2. [Prediksi COVID-19 di Indonesia Menggunakan FBProphet](https://github.com/fadilafgani/Prediksi-COVID-19-di-Indonesia-Menggunakan-Fbprophet)
 ![](/images/fbprophet.JPG)
+
 Prediksi kasus COVID-19 di Indonesia menggunakan library FBProphet. Fbprophet adalah metode runtun waktu yang bersifat open source yang dikembangkan oleh tim Data Science Facebook. Fbprophet meramalkan data deret waktu berdasarkan model aditif. Fbprophet mampu mengatasi data hilang (missing value) dan pergeseran tren, dan biasanya menangani outlier dengan baik.
 
 
@@ -17,6 +19,7 @@ Pencarian kecenderungan pembeli menggunakan algoritma Apriori dengan studi kasus
 
 ## 4. [Aplikasi Pembelian Motor Dealer Menggunakan Pemograman Java](https://github.com/fadilafgani/Aplikasi-Pembelian-Motor-Dealer-Menggunakan-Pemograman-Java)
 ![](/images/opening.JPG)
+
 Aplikasi pada dealer motor menggunakan pemograman Java. Pada aplikasi ini, terdapat fitur pembelian langsung (cash) dan kredit.
 
 
