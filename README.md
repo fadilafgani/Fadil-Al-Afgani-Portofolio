@@ -11,7 +11,8 @@ Prediksi kasus COVID-19 di Indonesia menggunakan library FBProphet. Fbprophet ad
 
 
 ## 3. [Pencarian Pola Pembelian Jilbab Menggunakan Algortima Apriori](https://github.com/fadilafgani/Pencarian-Pola-Pembelian-Jilbab-Menggunakan-Algortima-Apriori)
-Pencarian kecenderungan pembeli menggunakan algoritma Apriori dengan studi kasus data pembelian jilbab.
+![](/images/apriori.JPG)
+Pencarian kecenderungan pembeli menggunakan algoritma Apriori dengan studi kasus data pembelian jilbab. Algoritma apriori merupakan salah satu algoritma klasik data mining. Algoritma apriori digunakan agar komputer dapat mempelajari aturan asosiasi, mencari pola hubungan antar satu atau lebih item dalam suatu dataset. Algoritma apriori banyak digunakan pada data transaksi atau biasa disebut market basket.
 
 ## 4. [Aplikasi Pembelian Motor Dealer Menggunakan Pemograman Java](https://github.com/fadilafgani/Aplikasi-Pembelian-Motor-Dealer-Menggunakan-Pemograman-Java)
 ![](/images/opening.JPG)
