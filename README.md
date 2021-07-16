@@ -37,7 +37,9 @@ Clustering Pada Data Sales Bedak Bayi Menggunakan Algoritma K-Means dan Metode E
 
 
 ## 7. [Prediksi IHSG Menggunakan Algoritma LSTM](https://github.com/fadilafgani/Prediksi-IHSG-Menggunakan-Algoritma-LSTM)
-Prediksi IHSG Menggunakan Algoritma Long SHort Term Memory (LSTM). LSTM merupakan salah satu jenis Algoritma RNN. Adapun data yang digunakan adalah data JKSE yang diambil langsung dari website Yahoo Finance.
+![](/images/saham2.JPG)
+
+Prediksi IHSG Menggunakan Algoritma Long SHort Term Memory (LSTM). LSTM merupakan salah satu jenis Algoritma RNN. Adapun data yang digunakan adalah data JKSE yang diambil langsung dari website Yahoo Finance. Long Short Term Memory (LSTM) merupakan salah satu pengembangan neural network yang dapat digunakan untuk pemodelan data time series. 
 
 ## 8. [Klasifikasi Hasil Pemilu (Terpilih atau Tidak) Menggunakan Decision Tree Classifier](https://github.com/fadilafgani/Klasifikasi-Hasil-Pemilu-Terpilih-atau-Tidak-Menggunakan-Decision-Tree-Classifier)
 Klasifikasi Hasil Pemilu (Terpilih atau Tidak) Menggunakan Decision Tree Classifier. Data hasil pemilu yang digunakan adalah pemilu DKI Jakarta Tahun 2009. Algoritma Decision Tree dipilih karena pengambilan keputusan yang kompleks menjadi lebih simple, sehingga pengambil keputusan akan lebih menginterpretasikan solusi dari permasalahan.
