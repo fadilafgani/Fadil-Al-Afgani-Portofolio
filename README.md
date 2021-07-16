@@ -30,7 +30,9 @@ Prediksi IHSG Menggunakan Algoritma Neural Network. Data yang digunakan adalah d
 
 
 ## 6. [Clustering Pada Data Sales Bedak Bayi Menggunakan Kmeans dan Elbow](https://github.com/fadilafgani/Clustering-Pada-Data-Sales-Bedak-Bayi-Menggunakan-Kmeans-dan-Elbow)
+![](/images/bedakbayi.JPG) 
 Clustering Pada Data Sales Bedak Bayi Menggunakan Algoritma K-Means dan Metode Elbow.
+
 
 ## 7. [Prediksi IHSG Menggunakan Algoritma LSTM](https://github.com/fadilafgani/Prediksi-IHSG-Menggunakan-Algoritma-LSTM)
 Prediksi IHSG Menggunakan Algoritma Long SHort Term Memory (LSTM). LSTM merupakan salah satu jenis Algoritma RNN. Adapun data yang digunakan adalah data JKSE yang diambil langsung dari website Yahoo Finance.
