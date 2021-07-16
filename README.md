@@ -31,6 +31,7 @@ Prediksi IHSG Menggunakan Algoritma Neural Network. Data yang digunakan adalah d
 
 ## 6. [Clustering Pada Data Sales Bedak Bayi Menggunakan Kmeans dan Elbow](https://github.com/fadilafgani/Clustering-Pada-Data-Sales-Bedak-Bayi-Menggunakan-Kmeans-dan-Elbow)
 ![](/images/bedakbayi.JPG) 
+
 Clustering Pada Data Sales Bedak Bayi Menggunakan Algoritma K-Means dan Metode Elbow.
 
 
