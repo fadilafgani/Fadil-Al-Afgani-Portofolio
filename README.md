@@ -42,7 +42,9 @@
 <div style="text-align: justify"> Prediksi IHSG Menggunakan Algoritma Long SHort Term Memory (LSTM). LSTM merupakan salah satu jenis Algoritma RNN. Adapun data yang digunakan adalah data JKSE yang diambil langsung dari website Yahoo Finance. Long Short Term Memory (LSTM) merupakan salah satu pengembangan neural network yang dapat digunakan untuk pemodelan data time series. </div>
 
 ## 8. [Klasifikasi Hasil Pemilu (Terpilih atau Tidak) Menggunakan Decision Tree Classifier](https://github.com/fadilafgani/Klasifikasi-Hasil-Pemilu-Terpilih-atau-Tidak-Menggunakan-Decision-Tree-Classifier)
-Klasifikasi Hasil Pemilu (Terpilih atau Tidak) Menggunakan Decision Tree Classifier. Data hasil pemilu yang digunakan adalah pemilu DKI Jakarta Tahun 2009. Algoritma Decision Tree dipilih karena pengambilan keputusan yang kompleks menjadi lebih simple, sehingga pengambil keputusan akan lebih menginterpretasikan solusi dari permasalahan.
+![](/images/pemilu.JPG)
+
+<div style="text-align: justify"> Klasifikasi Hasil Pemilu (Terpilih atau Tidak) Menggunakan Decision Tree Classifier. Data hasil pemilu yang digunakan adalah pemilu DKI Jakarta Tahun 2009. Algoritma Decision Tree dipilih karena pengambilan keputusan yang kompleks menjadi lebih simple, sehingga pengambil keputusan akan lebih menginterpretasikan solusi dari permasalahan. </div>
 
 ## 9. [Visualisasi Data Covid-19 di Indonesia menggunakan Tableau](https://github.com/fadilafgani/Visualisasi-Data-Covid-19-di-Indonesia-menggunakan-Tableau)
 Tableau Software adalah perusahaan perangkat lunak visualisasi data interaktif Amerika yang berfokus pada intelijen bisnis. Pada project ini melakukan visualiasi terhadap data Covid-19 diseluruh provinsi di Indonesia.
