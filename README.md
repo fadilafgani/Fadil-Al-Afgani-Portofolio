@@ -3,7 +3,7 @@
 ## 1. [Aplikasi Website PPDB Online](https://github.com/fadilafgani/Sistem-Website-PPDB-Online)
 ![](/images/ppdb.JPG)
 
-Aplikasi PPDB Online adalah aplikasi pendataan calon peserta didik baru berbasis web. Aplikasi tersebut berbentuk website dengan framework yang digunakan adalah CodeIgniter
+<div style="text-align: justify"> Aplikasi PPDB Online adalah aplikasi pendataan calon peserta didik baru berbasis web. Aplikasi tersebut berbentuk website dengan framework yang digunakan adalah CodeIgniter. </div>
 
 
 ## 2. [Prediksi COVID-19 di Indonesia Menggunakan FBProphet](https://github.com/fadilafgani/Prediksi-COVID-19-di-Indonesia-Menggunakan-Fbprophet)
@@ -15,7 +15,7 @@ Aplikasi PPDB Online adalah aplikasi pendataan calon peserta didik baru berbasis
 ## 3. [Pencarian Pola Pembelian Jilbab Menggunakan Algortima Apriori](https://github.com/fadilafgani/Pencarian-Pola-Pembelian-Jilbab-Menggunakan-Algortima-Apriori)
 ![](/images/apriori.JPG) 
 
-Pencarian kecenderungan pembeli menggunakan algoritma Apriori dengan studi kasus data pembelian jilbab. Algoritma apriori merupakan salah satu algoritma klasik data mining. Algoritma apriori digunakan agar komputer dapat mempelajari aturan asosiasi, mencari pola hubungan antar satu atau lebih item dalam suatu dataset. Algoritma apriori banyak digunakan pada data transaksi atau biasa disebut market basket.
+<div style="text-align: justify"> Pencarian kecenderungan pembeli menggunakan algoritma Apriori dengan studi kasus data pembelian jilbab. Algoritma apriori merupakan salah satu algoritma klasik data mining. Algoritma apriori digunakan agar komputer dapat mempelajari aturan asosiasi, mencari pola hubungan antar satu atau lebih item dalam suatu dataset. Algoritma apriori banyak digunakan pada data transaksi atau biasa disebut market basket. </div>
 
 ## 4. [Aplikasi Pembelian Motor Dealer Menggunakan Pemograman Java](https://github.com/fadilafgani/Aplikasi-Pembelian-Motor-Dealer-Menggunakan-Pemograman-Java)
 ![](/images/opening.JPG)
