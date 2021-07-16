@@ -32,7 +32,8 @@ Prediksi IHSG Menggunakan Algoritma Neural Network. Data yang digunakan adalah d
 ## 6. [Clustering Pada Data Sales Bedak Bayi Menggunakan Kmeans dan Elbow](https://github.com/fadilafgani/Clustering-Pada-Data-Sales-Bedak-Bayi-Menggunakan-Kmeans-dan-Elbow)
 ![](/images/bedakbayi.JPG) 
 
-Clustering Pada Data Sales Bedak Bayi Menggunakan Algoritma K-Means dan Metode Elbow.
+Clustering Pada Data Sales Bedak Bayi Menggunakan Algoritma K-Means dan Metode Elbow. K-means clustering merupakan salah satu metode cluster analysis non hirarki yang berusaha untuk mempartisi objek yang ada kedalam satu atau lebih cluster atau kelompok objek berdasarkan karakteristiknya, sehingga objek yang mempunyai karakteristik yang sama dikelompokan dalam satu cluster yang sama dan objek yang mempunyai karakteristik yang berbeda dikelompokan kedalam cluster yang lain. Sedangkan metode eblow adalah suatu metode yang digunakan untuk menghasilkan informasi dalam menentukan jumlah cluster terbaik dengan cara melihat persentase hasil perbandingan antara jumlah cluster yang akan membentuk siku pada suatu titik.
+
 
 
 ## 7. [Prediksi IHSG Menggunakan Algoritma LSTM](https://github.com/fadilafgani/Prediksi-IHSG-Menggunakan-Algoritma-LSTM)
