@@ -20,26 +20,26 @@
 ## 4. [Aplikasi Pembelian Motor Dealer Menggunakan Pemograman Java](https://github.com/fadilafgani/Aplikasi-Pembelian-Motor-Dealer-Menggunakan-Pemograman-Java)
 ![](/images/opening.JPG)
 
-Aplikasi pada dealer motor menggunakan pemograman Java. Pada aplikasi ini, terdapat fitur pembelian langsung (cash) dan kredit.
+<div style="text-align: justify"> Aplikasi pada dealer motor menggunakan pemograman Java. Pada aplikasi ini, terdapat fitur pembelian langsung (cash) dan kredit. </div>
 
 
 ## 5. [Prediksi IHSG Menggunakan Neural Network](https://github.com/fadilafgani/Prediksi-IHSG-Menggunakan-Neural-Network)
 ![](/images/saham.JPG)
 
-Prediksi IHSG Menggunakan Algoritma Neural Network. Data yang digunakan adalah data IHSG Indonesia/JKSE dan berasal dari website Yahoo Finance dengan range data 15 tahun terakhir. Neural   Network   (NN) adalah   suatu   metode pembelajaran  yang  diinspirasi  dari  jaringan  sistem pembelajaran  biologis  yang  terjadi  dari  jaringan  sel syaraf (neuron)  yang  terhubung  satu  dengan  yang lainnya.    
+<div style="text-align: justify"> Prediksi IHSG Menggunakan Algoritma Neural Network. Data yang digunakan adalah data IHSG Indonesia/JKSE dan berasal dari website Yahoo Finance dengan range data 15 tahun terakhir. Neural   Network   (NN) adalah   suatu   metode pembelajaran  yang  diinspirasi  dari  jaringan  sistem pembelajaran  biologis  yang  terjadi  dari  jaringan  sel syaraf (neuron)  yang  terhubung  satu  dengan  yang lainnya. </div>
 
 
 ## 6. [Clustering Pada Data Sales Bedak Bayi Menggunakan Kmeans dan Elbow](https://github.com/fadilafgani/Clustering-Pada-Data-Sales-Bedak-Bayi-Menggunakan-Kmeans-dan-Elbow)
 ![](/images/bedakbayi.JPG) 
 
-Clustering Pada Data Sales Bedak Bayi Menggunakan Algoritma K-Means dan Metode Elbow. K-means clustering merupakan salah satu metode cluster analysis non hirarki yang berusaha untuk mempartisi objek yang ada kedalam satu atau lebih cluster atau kelompok objek berdasarkan karakteristiknya, sehingga objek yang mempunyai karakteristik yang sama dikelompokan dalam satu cluster yang sama dan objek yang mempunyai karakteristik yang berbeda dikelompokan kedalam cluster yang lain. Sedangkan metode eblow adalah suatu metode yang digunakan untuk menghasilkan informasi dalam menentukan jumlah cluster terbaik dengan cara melihat persentase hasil perbandingan antara jumlah cluster yang akan membentuk siku pada suatu titik.
+<div style="text-align: justify"> Clustering Pada Data Sales Bedak Bayi Menggunakan Algoritma K-Means dan Metode Elbow. K-means clustering merupakan salah satu metode cluster analysis non hirarki yang berusaha untuk mempartisi objek yang ada kedalam satu atau lebih cluster atau kelompok objek berdasarkan karakteristiknya, sehingga objek yang mempunyai karakteristik yang sama dikelompokan dalam satu cluster yang sama dan objek yang mempunyai karakteristik yang berbeda dikelompokan kedalam cluster yang lain. Sedangkan metode eblow adalah suatu metode yang digunakan untuk menghasilkan informasi dalam menentukan jumlah cluster terbaik dengan cara melihat persentase hasil perbandingan antara jumlah cluster yang akan membentuk siku pada suatu titik. </div>
 
 
 
 ## 7. [Prediksi IHSG Menggunakan Algoritma LSTM](https://github.com/fadilafgani/Prediksi-IHSG-Menggunakan-Algoritma-LSTM)
 ![](/images/saham2.JPG)
 
-Prediksi IHSG Menggunakan Algoritma Long SHort Term Memory (LSTM). LSTM merupakan salah satu jenis Algoritma RNN. Adapun data yang digunakan adalah data JKSE yang diambil langsung dari website Yahoo Finance. Long Short Term Memory (LSTM) merupakan salah satu pengembangan neural network yang dapat digunakan untuk pemodelan data time series. 
+<div style="text-align: justify"> Prediksi IHSG Menggunakan Algoritma Long SHort Term Memory (LSTM). LSTM merupakan salah satu jenis Algoritma RNN. Adapun data yang digunakan adalah data JKSE yang diambil langsung dari website Yahoo Finance. Long Short Term Memory (LSTM) merupakan salah satu pengembangan neural network yang dapat digunakan untuk pemodelan data time series. </div>
 
 ## 8. [Klasifikasi Hasil Pemilu (Terpilih atau Tidak) Menggunakan Decision Tree Classifier](https://github.com/fadilafgani/Klasifikasi-Hasil-Pemilu-Terpilih-atau-Tidak-Menggunakan-Decision-Tree-Classifier)
 Klasifikasi Hasil Pemilu (Terpilih atau Tidak) Menggunakan Decision Tree Classifier. Data hasil pemilu yang digunakan adalah pemilu DKI Jakarta Tahun 2009. Algoritma Decision Tree dipilih karena pengambilan keputusan yang kompleks menjadi lebih simple, sehingga pengambil keputusan akan lebih menginterpretasikan solusi dari permasalahan.
